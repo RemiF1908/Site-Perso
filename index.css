@@ -1,0 +1,17 @@
+:root{
+    --ax-primary: #A1C1CF;
+}
+
+.profil-picture{
+    background-image: url("data/pictures/remi.jpg");
+    background-size: cover;
+    height: 95vh;
+}
+header{
+    height: 5vh;
+    font-family: 'Oswald', sans-serif;
+}
+
+footer{
+    font-family: 'Oswald', sans-serif;
+}
